@@ -1,5 +1,9 @@
 <script>
 
-hello
+    hello () {
+
+    }
+
+console.log (hello)
 
 </script>
