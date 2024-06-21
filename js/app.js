@@ -1,9 +1,11 @@
 <script>
-
     hello () {
+        
 
+  }
+  
+    test () { 
+
+        
     }
-
-    test
-
-</script>
+</script>;
