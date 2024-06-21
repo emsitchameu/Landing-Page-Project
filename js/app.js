@@ -1,4 +1,4 @@
 <script>
   hello () {}
-  test () {}
+  dad () {}
 </script>;
