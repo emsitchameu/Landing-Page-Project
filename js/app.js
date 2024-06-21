@@ -4,6 +4,5 @@
 
     }
 
-console.log (hello)
 
 </script>
