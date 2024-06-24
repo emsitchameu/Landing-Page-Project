@@ -2,4 +2,5 @@
   hello () {}
   dad () {}
   test () {}
+ draft () {}
 </script>;
