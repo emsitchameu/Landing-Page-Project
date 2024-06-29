@@ -121,3 +121,5 @@ scrollToTopBtn.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
+
+// OtherComments
