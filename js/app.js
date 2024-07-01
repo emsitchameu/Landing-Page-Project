@@ -122,3 +122,4 @@ scrollToTopBtn.addEventListener("click", () => {
   });
 });
 
+// Other comments
