@@ -1,9 +1,16 @@
 # Landing Page Project
 
-## Instructions
+## Project Description
+This project is a multi-section landing page with a dynamically updating navigation menu based on the content added to the page. It demonstrates DOM manipulation, smooth scrolling, and responsive design.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [License](#license)
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Installation
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/yourusername/landing-page-project.git
