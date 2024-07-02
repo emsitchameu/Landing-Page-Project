@@ -13,4 +13,4 @@ This project is a multi-section landing page with a dynamically updating navigat
 ## Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/landing-page-project.git
+   https://github.com/emsitchameu/Landing-Page-Project.git
